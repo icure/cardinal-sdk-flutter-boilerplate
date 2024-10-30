@@ -1,0 +1,29 @@
+PODS:
+  - cardinal_sdk (1.0.0-RC.1):
+    - CardinalDartSdkSupportLib (~> 1.0.0-RC.1)
+    - Flutter
+  - CardinalDartSdkSupportLib (1.0.0-RC.1)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - cardinal_sdk (from `.symlinks/plugins/cardinal_sdk/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - CardinalDartSdkSupportLib
+
+EXTERNAL SOURCES:
+  cardinal_sdk:
+    :path: ".symlinks/plugins/cardinal_sdk/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  cardinal_sdk: 1611b61155845c0b068dce647ae01d1a81676467
+  CardinalDartSdkSupportLib: 116f25373c5bad507786f5649ea9206a2bce0c18
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
